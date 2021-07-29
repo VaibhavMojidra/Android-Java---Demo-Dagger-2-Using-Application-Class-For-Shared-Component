@@ -1,0 +1,2 @@
+rootProject.name = "Dagger 2 Using Application Class for Shared Component Java"
+include ':app'
